@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bookyume:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/bookyume_war</output-path>
+    <root id="archive" name="bookyume_war.war">
+      <element id="artifact" artifact-name="bookyume:war exploded" />
+    </root>
+  </artifact>
+</component>
